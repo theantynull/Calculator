@@ -1,0 +1,49 @@
+        .numPad button {
+            font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+            font-size: 20px;
+            color: red;
+            width: 60px;
+            height: 70px;
+            margin: 1px;
+            background-color: beige;
+            font-weight: bold;
+        }
+
+        .numPad #remove, #ac{
+
+            background-color: red;
+            color: white;
+            width: 60px;
+            height: 35px;
+        }
+
+        .numPad #add,#sub,#mul,#div,#percent{
+            background-color: greenyellow;
+            color: black;
+
+        }
+
+        .numPad #enter{
+            background-color: rgb(14, 130, 120);
+            color: rgb(250, 199, 199);
+        }
+
+        #text {
+            background-color: blueviolet;
+            color: rgb(0, 0, 0);
+            font-weight: bold;
+            font-size: 40px;
+            font-family: Arial, Helvetica, sans-serif;
+            width: 260px;
+            height: 60px;
+            }
+        #block {
+            background-color: rgb(56, 26, 95);
+            width: 270px;
+            height: 480px;
+
+        }
+        h1 , body{
+            color:aliceblue;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }
